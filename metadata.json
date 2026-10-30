@@ -1,0 +1,6 @@
+{
+  "name": "TRICK OR TREAT - Сүнсний Чихэрчин",
+  "description": "Шөнө дундын ид шидээр Halloween-ийн амттанаа бүтээх интерактив тоглоом",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
