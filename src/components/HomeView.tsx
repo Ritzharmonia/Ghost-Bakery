@@ -72,10 +72,10 @@ export const HomeView: React.FC<HomeViewProps> = ({
 
           {/* Main Title */}
           <h1 className="text-4xl sm:text-6xl md:text-7xl font-black tracking-tight text-transparent bg-clip-text bg-gradient-to-b from-orange-200 via-orange-400 to-amber-600 font-gothic drop-shadow-[0_4px_16px_rgba(234,88,12,0.4)]">
-            СҮНСНИЙ ЧИХЭРЧИН
+            САФФИР ЧИХЭР ХХК
           </h1>
 
-          {/* Subtitle in an authentic gothic Baker Ghost's Oval (Зууван) Speech Bubble */}
+          {/* Subtitle in an authentic gothic Ghost's Oval (Зууван) Speech Bubble */}
           <div className="flex flex-col items-center gap-3 pt-1">
             <div className="relative max-w-2xl px-8 py-3.5 rounded-[45px] bg-[#0d1326]/95 border-2 border-purple-500/50 shadow-2xl backdrop-blur-md">
               <p className="text-sm sm:text-base text-slate-200 font-normal leading-relaxed">
@@ -85,10 +85,10 @@ export const HomeView: React.FC<HomeViewProps> = ({
               <div className="absolute -bottom-2 left-1/2 -translate-x-1/2 w-0 h-0 border-l-[8px] border-l-transparent border-r-[8px] border-r-transparent border-t-[10px] border-t-purple-500/60" />
             </div>
 
-            {/* Little friendly Baker Ghost mascot */}
+            {/* Ghost mascot */}
             <div className="flex items-center gap-2 text-xs text-orange-400/90 font-medium">
               <span className="text-base animate-bounce">👻</span>
-              <span>Шөнө дундын нарийн боовчин сүнс</span>
+              <span>Саффир улсын турж үхсэн хүний сүнс</span>
             </div>
           </div>
 
@@ -195,7 +195,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
       {/* Atmospheric Footer */}
       <footer className="mt-auto px-6 py-6 border-t border-indigo-950/60 bg-[#05070d] text-center text-xs text-slate-500 flex flex-col sm:flex-row items-center justify-between gap-4">
         <p className="tracking-wide">
-          <span className="text-orange-400 font-gothic">TRICK OR TREAT</span> · Сүнсний Чихэрчин нарийн боовны газар
+          <span className="text-orange-400 font-gothic">TRICK OR TREAT</span> · Саффир Чихэр ХХК
         </p>
         <p className="text-slate-600">
           Шөнө дундын ид шидээр бүтээгдсэн амттаны интерактив тоглоом
